@@ -6,8 +6,9 @@
   "author": "Al Amin",
   "type": "widget",
   "capabilities": ["dankbar-widget", "monitoring"],
-  "component": "./Widget.qml",
+  "component": "./PortWatchWidget.qml",
   "icon": "dns",
+  "startupCheck": "./PortWatchStartupCheck.qml",
   "dependencies": ["bash", "ss", "hyprctl"],
   "permissions": ["process"],
   "requires_dms": ">=1.5.0"
