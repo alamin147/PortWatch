@@ -59,6 +59,8 @@ The plugin deliberately sends `SIGTERM`, not `SIGKILL`.
 
 Original Omarchy plugin: Rizmi / Omarchy Community.
 
+https://github.com/Rizmi/omarchy-portwatch-squre
+
 This port retains the original MIT license and adapts the scanner/safe-kill behavior to DMS's `PluginComponent`, DankBar pills and Material-themed plugin popout.
 
 
