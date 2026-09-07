@@ -1,7 +1,7 @@
 {
   "id": "portWatch",
   "name": "PortWatch",
-  "description": "Launch the lightweight Radio Atlas world-radio app from DankBar.",
+  "description": "Shows local listening ports/dev servers in the dankbar with a popup to stop them.",
   "version": "1.0.0",
   "author": "Al Amin",
   "type": "widget",
