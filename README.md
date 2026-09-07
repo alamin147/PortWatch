@@ -14,6 +14,11 @@ A native DMS port of [Rizmi/omarchy-portwatch-squre](https://github.com/Rizmi/om
 - Right-click the bar icon to refresh immediately.
 - No sudo and no network calls.
 
+# Screenshots
+<p align="center">
+  <img width="100%" src="./main/docs/portwatch.png" alt="Radio Atlas Plugin Screenshot"/>
+</p>
+
 ## Requirements
 
 - DankMaterialShell >= 1.5.0
@@ -64,7 +69,7 @@ https://github.com/Rizmi/omarchy-portwatch-squre
 This port retains the original MIT license and adapts the scanner/safe-kill behavior to DMS's `PluginComponent`, DankBar pills and Material-themed plugin popout.
 
 
-## 1.0.2
+## 1.0.0
 
 - Keep the Kill/Confirm target stable across automatic list refreshes.
 - Keep the action button at a fixed width so it does not move between clicks.
