@@ -32,6 +32,11 @@ Fedora:
 sudo dnf install iproute
 ```
 
+## Installation
+```bash
+  dms plugins install portWatch
+```
+
 ## Install locally
 
 Copy this whole folder into:
