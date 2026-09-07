@@ -1,0 +1,14 @@
+{
+  "id": "portWatch",
+  "name": "PortWatch",
+  "description": "Launch the lightweight Radio Atlas world-radio app from DankBar.",
+  "version": "1.0.0",
+  "author": "Al Amin",
+  "type": "widget",
+  "capabilities": ["dankbar-widget", "monitoring"],
+  "component": "./Widget.qml",
+  "icon": "dns",
+  "dependencies": ["bash", "ss", "hyprctl"],
+  "permissions": ["process"],
+  "requires_dms": ">=1.5.0"
+}
